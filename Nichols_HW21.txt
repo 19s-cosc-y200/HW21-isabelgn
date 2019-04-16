@@ -1,0 +1,107 @@
+/*--Project Name:Question #1 (HW21)
+Author: Isabel Nichols
+Date Last Modified: April 16, 2019*/
+.class{
+    position: relative;
+    left:15px;
+    background-color:#90EE90;
+}
+
+
+<!DocType html>
+<html lang="en">
+<head>
+<title>Question #1 </title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="pacific.css">
+</head>
+<!--
+Project Name: Question #1 (HW21)
+Author: Isabel Nichols
+Date Last Modified: April 16, 2019
+-->
+<body>
+    
+    <header>
+    <h1> Question #1</h1>
+     </header>   
+    
+<main class="class">
+    
+  <h2> Question #1</h2>  
+    <p>here is a paragraph to go with queestion #1</p>
+    
+</main>
+  <footer>
+     <br>
+            Copyright © 2018 quesiton #1<br> 
+            <a href="ignichol@my.loyno.edu">ignichol@my.loyno.edu</a>
+          
+    </footer>    
+          
+    </div>
+</body>
+</html>
+
+/*--Project Name:Question #2 (HW21)
+Author: Isabel Nichols
+Date Last Modified: April 16, 2019*/
+.classfixed{
+    position: fixed;
+    font-weight: bold;
+    background-color:#D3D3D3;
+    padding: 10px;
+}
+
+
+<!DocType html>
+<html lang="en">
+<head>
+<title>Question #2 </title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="pacific.css">
+</head>
+<!--
+Project Name: Question #2 (HW21)
+Author: Isabel Nichols
+Date Last Modified: April 16, 2019
+-->
+<body>
+    
+    <header>
+    <h1> Question #2</h1>
+     </header>   
+    
+<main class="classfixed">
+    
+  <h2> Question #2</h2>  
+    <p>here is a paragraph to go with queestion #2</p>
+    
+</main>
+  <footer>
+     <br>
+            Copyright © 2018 quesiton #2<br> 
+            <a href="ignichol@my.loyno.edu">ignichol@my.loyno.edu</a>
+          
+    </footer>    
+          
+    </div>
+</body>
+</html>
+
+
+
+/*--Project Name:Question #3 (HW21)
+Author: Isabel Nichols
+Date Last Modified: April 16, 2019*/
+ul{
+    list-style-image: url("myimage.gif)
+}
+
+/*--Project Name:Question #4 (HW21)
+Author: Isabel Nichols
+Date Last Modified: April 16, 2019*/
+ul{
+    list-style-type: square;
+}
+

@@ -46,6 +46,9 @@ Date Last Modified: April 16, 2019
 /*--Project Name:Question #2 (HW21)
 Author: Isabel Nichols
 Date Last Modified: April 16, 2019*/
+
+id, not a class
+
 .classfixed{
     position: fixed;
     font-weight: bold;
